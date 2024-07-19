@@ -1,5 +1,9 @@
 # HackerRank 1 week preparation kit
 
+## Mock Tests
+
+    These tests assure you really know how to code, it automatically detects code copying and prevents you from passing the test.
+    
 ## Mini-Max Sum
 
 [Code](https://github.com/valentevinicius/hacker-rank/blob/main/minimax.py)
